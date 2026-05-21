@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-/*simple patten ****
+/*simple patten *****
+                ****
                 ***           1st
 				**
 				*   */
